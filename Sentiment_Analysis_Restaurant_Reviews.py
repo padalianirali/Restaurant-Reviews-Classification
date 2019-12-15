@@ -11,7 +11,7 @@ from nltk.stem.porter import PorterStemmer
 '''
 Step 2: Importing restaurant reviews dataset    
 '''
-path = "E:\\Training\\NLP\\SA_Restaurant_Reviews\\Data_Restaurant_Reviews.tsv"
+path = "Data_Restaurant_Reviews.tsv"
 data = pd.read_csv(path, delimiter="\t")
 print(data.head())
 #path shows the source of data

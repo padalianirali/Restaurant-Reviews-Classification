@@ -1,2 +1,3 @@
-# Sentiment-Analysis-Gaussian-Naive-Bayes-Classifier
-Classification of restaurant reviews into positive and negative 
+Agenda: Classifying and predicting restaurant reviews
+Type: Supervised Classification
+Algorithm: Naive Bayes Classification Algorithm
